@@ -1,0 +1,8 @@
+baseURL = 'https://ad3n.github.io/lawang-docs/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
+
