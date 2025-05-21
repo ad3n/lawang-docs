@@ -1,6 +1,6 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Lawang Api Gateway Platform",
     "content": "",
     "description": "",
     "tags": [],
@@ -12,11 +12,11 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "My New Hugo Site",
+    "title": "Lawang Api Gateway Platform",
     "uri": "/lawang-docs/index.html"
   },
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Lawang Api Gateway Platform",
     "content": "",
     "description": "",
     "tags": [],
